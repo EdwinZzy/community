@@ -224,3 +224,7 @@
   hiringForKubeflow: true
   hiringUrl: https://www.weave.works/company/hiring/
 
+- name: MatrixTime
+  contacts:
+    - zhangzhenyu@matrixtime.com
+  url: 
